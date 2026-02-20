@@ -1,4 +1,4 @@
-<h1 align="center">I'm Varun!</h1>
+<h1 align="center">Hey, I'm Varun!</h1>
 <p align="center">
   <a href="https://github.com/VarunBondugula">GitHub</a> •
   <a href="linkedin.com/in/varun-bondugula-952a3a252/">LinkedIn</a> •
